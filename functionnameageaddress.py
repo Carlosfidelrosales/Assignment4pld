@@ -8,3 +8,5 @@ def display(nameF, ageF, addressF):
     print(f"Hi, my name is {nameF}. I am {ageF} years old and I live in {addressF}.")
     
 
+name, age, address = acquireNameAgeAddress()
+display(name, age, address)
