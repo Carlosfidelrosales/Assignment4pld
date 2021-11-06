@@ -1,5 +1,5 @@
 def greetings():
-    print("WELCOME TO CARLITO STORE! APPLE IS 20PHP EACH WHILE ORANGE IS 25PHP EACH.")
+    print("\033[1m\033[30m\033[93mWELCOME TO CARLITO STORE! APPLE IS 20PHP EACH WHILE ORANGE IS 25PHP EACH.")
 
 
 def OrangesandApples(_apple, _orange):
